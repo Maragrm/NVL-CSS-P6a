@@ -1,0 +1,51 @@
+*{
+margin: 10px;
+padding: 10px;
+text-decoration: none;
+}
+.celda1{
+background-color: white;
+font-style: normal;
+}
+.celda2{
+background-color: rgb(253, 250, 250);
+font-style: normal;
+}
+.celda3{
+    background-color: rgb(238, 231, 231);
+font-style: oblique;
+}  
+.celda4{
+background-color: rgb(153, 146, 146);
+font-style: normal;
+}
+.celda5{
+background-color: rgb(94, 90, 90);
+font-style: normal;
+color: white
+}  
+.celda6{
+background-color:rgb(88, 82, 82);
+font-style: normal;
+color: white
+}
+.celda7{
+background-color: rgb(70, 65, 65);
+font-style: normal;
+color: white
+}  
+.celda8{
+background-color: rgb(51, 49, 49);
+font-family: Arial, Helvetica, sans-serif;
+color: white
+}
+.celda9{
+background-color: rgb(27, 27, 27);
+font-style: italic;
+color: white
+}  
+.celda10 {
+background-color: black;
+font-family:'Times New Roman', Times, serif;
+color: white
+}
